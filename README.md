@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 #### 👯 I’m looking to collaborate on the quantitative strategy trading analysis on cryptocurrency.
 
-#### 📫 How to reach me: my email: yunhanm@usc.edu
+#### 📫 How to reach me: yunhanm@usc.edu
 
 #### 😄 Pronouns: he/him/his
