@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 
 #### ✨ This is Yunhan Mao.
 
-#### 🔭 I’m currently a junior majoring in computer science at University of Southern California. Go Trojans!
+#### 🔭 I’m currently pursuing B.S. and M.S.(PDP) in computer science at University of Southern California.
 
-#### 🌱 I’m currently looking for back-end related programming internship positions.
+#### 🌱 I’m currently looking for SDE internship and full-time oppotunities.
 
 #### 👯 I’m looking to collaborate on the quantitative strategy trading analysis on cryptocurrency.
 
-#### 📫 How to reach me: yunhanm@usc.edu
+#### 📫 How to reach me: yunhanm@usc.edu, xiaomaogary@gmail.com
 
 #### 😄 Pronouns: he/him/his
